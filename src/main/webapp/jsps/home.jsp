@@ -33,7 +33,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		DevOps Online Training, 
 		Trainer : Jeevan D,
 		Rajampet-516115,Kadapa (DIst),
-		Andra Pradesh.
+		Andhra Pradesh.
 		+91-7842602230
 		djeevan12@gmail.com
 		<br>
